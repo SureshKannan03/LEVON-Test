@@ -1,0 +1,18 @@
+2024-08-09T11:38:28.519Z info [index.js:start] message
+2024-08-09T11:38:36.330Z info [index.js:start] message
+2024-08-09T11:38:59.651Z info [index.js:start] message
+2024-08-09T11:41:40.755Z info [index.js:start] message sent to the users and database aswell
+2024-08-09T11:43:57.010Z info [notificationController.js:ended] message sent to the users and database aswell
+2024-08-09T11:44:25.189Z error [notificationController.js:stoped] catch error from the file notificationController.js and function createNotification
+2024-08-09T11:45:57.312Z info [notificationController.js:ended] message sent to the users and database aswell
+2024-08-09T12:12:50.047Z info [authController.js:success - ended] user registered successfully
+2024-08-09T12:12:58.879Z info [authController.js:success - end] user login successfully
+2024-08-09T12:15:12.790Z info [authController.js:success - end] user login successfully
+2024-08-09T12:15:42.342Z error [authController.js:success - end] user permission to enter the settings successfully
+2024-08-09T13:53:10.560Z info [authController.js:success - ended] user registered successfully
+2024-08-09T13:53:14.346Z info [authController.js:success - end] user login successfully
+2024-08-09T13:53:14.950Z info [authController.js:success - end] user login successfully
+2024-08-09T13:53:54.845Z error [userController.js:error - ended] user registration (mongodb) throw catch error
+2024-08-09T13:54:46.610Z error [userController.js:error - ended] user registration (mongodb) throw catch error
+2024-08-09T13:54:52.214Z info [userController.js:success - ended] user registered (mongodb) successfully
+2024-08-09T13:54:54.136Z error [userController.js:error - ended] user registration (mongodb) throw catch error
