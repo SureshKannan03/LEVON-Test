@@ -28,7 +28,7 @@ app.use("/api", require("./routes/userRoutes"));
 app.use("/products", require("./routes/productRoutes"));
 app.use("/profile", require("./routes/authRoutes"));
 app.use("/auth", require("./routes/authRoutes"));
-app.use("/notifications", require("./routes/notificationRoutes"));
+app.use("/notify", require("./routes/notificationRoutes"));
 
 app.listen(port, () => {
   console.log(`Server running on PORT ${port}`);

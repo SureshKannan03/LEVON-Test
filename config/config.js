@@ -5,5 +5,5 @@ dotenv.config({
 module.exports = {
   PORT: process.env.PORT,
   DB: process.env.DB,
-  JWT_SECRET_KEY: process.env.JWT_SECRET,
+  JWT_SECRET_KEY: process.env.JWT_SECRET_KEY,
 };
